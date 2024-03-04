@@ -6,7 +6,7 @@ Denne IP Lookup er simple og ikke så svært og bruge
 
 ## Installation
 
-Før du kan starter main.py skal du lige skrive
+Før du kan starter main.py skal du lige åbene Command prompt og skrive 
 ```bash
-pip install -r requirements.txt```
-i din terminal
+pip install -r requirements.txt
+```
