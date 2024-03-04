@@ -8,6 +8,5 @@ Denne IP Lookup er simple og ikke så svært og bruge
 
 Før du kan starter main.py skal du lige skrive
 ```bash
-pip install -r requirements.txt
-
+pip install -r requirements.txt```
 i din terminal
